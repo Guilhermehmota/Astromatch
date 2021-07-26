@@ -1,5 +1,8 @@
 # Astromatch
 
+## Link do Surge
+https://astromatch-projeto-guilherme.surge.sh
+
 ## Ferramentas 🔧
 
 React Js — Biblioteca Javascript para construir interfaces
@@ -8,7 +11,7 @@ Axios - Biblioteca para fazer requisições do navegador
 
 ## Escopo do projeto 📌
 
-Criar um clone do tinder, utilizando ao máximo os conhecimentos adquiridos durante essa semana, a saber: Hooks (useState e/ou useEffect). 
+Criar um clone do tinder, utilizando renderização condicional e os principais Hooks (useState e/ou useEffect). 
 
 ## Requisitos e funcionalidades
 
